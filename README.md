@@ -16,8 +16,8 @@ Asignar ip local
 
 module.exports = {
   port: process.env.PORT || 3002,
-  apiHeroku:'https://almundotest.herokuapp.com/', //conectarse a ip en heroku
-  apiLocal: 'http://IP LOCAL:3002/',//conectarse a ip local
+  apiHeroku:'https://almundotest.herokuapp.com/', //conectarse a api en heroku
+  apiLocal: 'http://IP LOCAL:3002/',//conectarse a api local
 };
 
 # app/request/index.js
@@ -25,7 +25,7 @@ module.exports = {
 line 5:   const url = Config.apiHeroku;
 line 6:   const url = Config.apiLocal;
 
-comentar una de las dos lineas para conectarnos a la ip local o ip en heroku
+comentar una de las dos lineas para conectarnos a la api local o api en heroku
 ```
 Run
 ``` bash
