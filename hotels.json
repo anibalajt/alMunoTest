@@ -1,0 +1,2040 @@
+{
+  "hotels": [
+    {
+      "id": "94257",
+      "description": "",
+      "name": "InterContinental Medellin",
+      "geo_position": {
+        "latitude": 6.2146,
+        "longitude": -75.55856
+      },
+      "images": [
+        {
+          "id": "1785652",
+          "url": "//images.almundo.com/201/1000000/570000/564300/564224/564224_265_b.jpg"
+        }
+      ],
+      "stars": 4,
+      "recommended": true,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "parking",
+          "description": "estacionamiento"
+        },
+        {
+          "code": "internet",
+          "description": "internet"
+        },
+        {
+          "code": "spa",
+          "description": "spa"
+        },
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "fitness-center",
+          "description": "gimnasio"
+        },
+        {
+          "code": "safety-box",
+          "description": "caja de seguridad"
+        },
+        {
+          "code": "game-room",
+          "description": "sala de juegos"
+        },
+        {
+          "code": "wedding-services",
+          "description": "servicios de boda"
+        },
+        {
+          "code": "bar",
+          "description": "bar"
+        },
+        {
+          "code": "beach-pool-facilities",
+          "description": "instalaciones en playa/piscina"
+        },
+        {
+          "code": "tours-ticket-assistance",
+          "description": "asistencia turística"
+        },
+        {
+          "code": "laundry-facilities",
+          "description": "lavanderia"
+        },
+        {
+          "code": "pool-bar",
+          "description": "bar en la piscina"
+        },
+        {
+          "code": "tennis",
+          "description": "tennis"
+        },
+        {
+          "code": "garden",
+          "description": "jardin"
+        },
+        {
+          "code": "coffee-shop",
+          "description": "tienda de café"
+        },
+        {
+          "code": "hair-salon",
+          "description": "peluqueria"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "meeting-rooms",
+          "description": "sala de reuniones"
+        },
+        {
+          "code": "housekeeping",
+          "description": "servicio de limpieza"
+        }
+      ],
+      "rate": {
+        "id": "fc008251-ec0f-42e8-b462-4ef848314ad2",
+        "price": {
+          "per_night": 607955.4,
+          "total": 607955.3948,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 607955.3948,
+          "price_per_night_per_room": 607955.4,
+          "total_with_operation_cost": 638353.16454,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 607955.3948,
+          "show_amount_per_night_per_room": 607955.4,
+          "show_amount_with_operation_cost": 638353.16454,
+          "show_amount_per_night_per_room_without_discount": 607955.4,
+          "show_amount_without_discount": 607955.3948
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "BREAKFAST",
+          "description": "desayuno"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "intercontinental-medellin-94257",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "751054",
+      "description": "",
+      "name": "Tu Apartamento De Santo Tomás",
+      "geo_position": {
+        "latitude": 6.24804602721147,
+        "longitude": -75.5966268114571
+      },
+      "images": [
+        {
+          "id": "8825472",
+          "url": "//aff.bstatic.com/images/hotel/max500/111/111529797.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [],
+      "rate": {
+        "id": "b1ac8786-7528-4815-b2c3-1f6b1bf3c30b",
+        "price": {
+          "per_night": 70223.99,
+          "total": 70223.9824,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 70223.9824,
+          "price_per_night_per_room": 70223.99,
+          "total_with_operation_cost": 73735.18152,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 70223.9824,
+          "show_amount_per_night_per_room": 70223.99,
+          "show_amount_with_operation_cost": 73735.18152,
+          "show_amount_per_night_per_room_without_discount": 70223.99,
+          "show_amount_without_discount": 70223.9824
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "tu-apartamento-de-santo-tom-s-751054",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "751055",
+      "description": "",
+      "name": "Hostal El Hangar 65",
+      "geo_position": {
+        "latitude": 6.21284734056454,
+        "longitude": -75.5865222215652
+      },
+      "images": [
+        {
+          "id": "8825458",
+          "url": "//aff.bstatic.com/images/hotel/max500/275/27515709.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "garden",
+          "description": "jardin"
+        }
+      ],
+      "rate": {
+        "id": "25f04376-1328-4dae-a670-cde3166966dd",
+        "price": {
+          "per_night": 55167.39,
+          "total": 55167.3824,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 55167.3824,
+          "price_per_night_per_room": 55167.39,
+          "total_with_operation_cost": 57925.75152,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 55167.3824,
+          "show_amount_per_night_per_room": 55167.39,
+          "show_amount_with_operation_cost": 57925.75152,
+          "show_amount_per_night_per_room_without_discount": 55167.39,
+          "show_amount_without_discount": 55167.3824
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "hostal-el-hangar-65-751055",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "752265",
+      "description": "",
+      "name": "Hotel Park 6",
+      "geo_position": {
+        "latitude": 6.24521850472514,
+        "longitude": -75.5846453899353
+      },
+      "images": [
+        {
+          "id": "8832593",
+          "url": "//aff.bstatic.com/images/hotel/max500/109/109656316.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "bar",
+          "description": "bar"
+        },
+        {
+          "code": "balcony",
+          "description": "balcón"
+        }
+      ],
+      "rate": {
+        "id": "3c8c56f1-d706-424d-9996-3ef92bef5bc0",
+        "price": {
+          "per_night": 50168.6,
+          "total": 50168.5912,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 50168.5912,
+          "price_per_night_per_room": 50168.6,
+          "total_with_operation_cost": 52677.02076,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 50168.5912,
+          "show_amount_per_night_per_room": 50168.6,
+          "show_amount_with_operation_cost": 52677.02076,
+          "show_amount_per_night_per_room_without_discount": 50168.6,
+          "show_amount_without_discount": 50168.5912
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "BREAKFAST",
+          "description": "desayuno"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "hotel-park-6-752265",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "755257",
+      "description": "",
+      "name": "Florentina Hostal",
+      "geo_position": {
+        "latitude": 6.21293839696576,
+        "longitude": -75.5731790920959
+      },
+      "images": [
+        {
+          "id": "8850785",
+          "url": "//aff.bstatic.com/images/hotel/max500/768/76894920.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "bar",
+          "description": "bar"
+        },
+        {
+          "code": "balcony",
+          "description": "balcón"
+        },
+        {
+          "code": "garden",
+          "description": "jardin"
+        }
+      ],
+      "rate": {
+        "id": "f7efc609-8d4b-43c8-8e58-22e50a350de4",
+        "price": {
+          "per_night": 107142.77,
+          "total": 107142.7656,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 107142.7656,
+          "price_per_night_per_room": 107142.77,
+          "total_with_operation_cost": 112499.90388,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 107142.7656,
+          "show_amount_per_night_per_room": 107142.77,
+          "show_amount_with_operation_cost": 112499.90388,
+          "show_amount_per_night_per_room_without_discount": 107142.77,
+          "show_amount_without_discount": 107142.7656
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "BREAKFAST",
+          "description": "desayuno"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "florentina-hostal-755257",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "754048",
+      "description": "",
+      "name": "BlackPine Hostel",
+      "geo_position": {
+        "latitude": 6.20783696870948,
+        "longitude": -75.5763602840614
+      },
+      "images": [
+        {
+          "id": "8843264",
+          "url": "//aff.bstatic.com/images/hotel/max500/107/107523337.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "coffee-shop",
+          "description": "tienda de café"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "free-botled-water",
+          "description": "botella de agua mineral gratis"
+        },
+        {
+          "code": "grocery-shooping-service",
+          "description": "tienda de comestibles"
+        },
+        {
+          "code": "garden",
+          "description": "jardin"
+        }
+      ],
+      "rate": {
+        "id": "5a63302e-599e-4e0a-b724-fd9c5fae090d",
+        "price": {
+          "per_night": 63207.61,
+          "total": 63207.6068,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 63207.6068,
+          "price_per_night_per_room": 63207.61,
+          "total_with_operation_cost": 66367.98714,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 63207.6068,
+          "show_amount_per_night_per_room": 63207.61,
+          "show_amount_with_operation_cost": 66367.98714,
+          "show_amount_per_night_per_room_without_discount": 63207.61,
+          "show_amount_without_discount": 63207.606799999994
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "BREAKFAST",
+          "description": "desayuno"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "blackpine-hostel-754048",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "752381",
+      "description": "",
+      "name": "Casa Your Home Away From Home",
+      "geo_position": {
+        "latitude": 6.24250161336902,
+        "longitude": -75.5924787607964
+      },
+      "images": [
+        {
+          "id": "8833721",
+          "url": "//aff.bstatic.com/images/hotel/max500/111/111204769.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "balcony",
+          "description": "balcón"
+        }
+      ],
+      "rate": {
+        "id": "6859fa65-38f9-44a4-86a4-79c97f1013ee",
+        "price": {
+          "per_night": 50168.6,
+          "total": 50168.5912,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 50168.5912,
+          "price_per_night_per_room": 50168.6,
+          "total_with_operation_cost": 52677.02076,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 50168.5912,
+          "show_amount_per_night_per_room": 50168.6,
+          "show_amount_with_operation_cost": 52677.02076,
+          "show_amount_per_night_per_room_without_discount": 50168.6,
+          "show_amount_without_discount": 50168.5912
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "casa-your-home-away-from-home-752381",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "750363",
+      "description": "",
+      "name": "Hotel Platinum Plaza",
+      "geo_position": {
+        "latitude": 6.23969786312269,
+        "longitude": -75.580347776413
+      },
+      "images": [
+        {
+          "id": "8821348",
+          "url": "//aff.bstatic.com/images/hotel/max500/122/12221849.jpg"
+        }
+      ],
+      "stars": 3,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "air-condition",
+          "description": "aire Acondicionado"
+        },
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "balcony",
+          "description": "balcón"
+        }
+      ],
+      "rate": {
+        "id": "5aab42d4-b5f2-483e-9854-931bf0695687",
+        "price": {
+          "per_night": 100307.07,
+          "total": 100307.0692,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 100307.0692,
+          "price_per_night_per_room": 100307.07,
+          "total_with_operation_cost": 105322.42266,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 100307.0692,
+          "show_amount_per_night_per_room": 100307.07,
+          "show_amount_with_operation_cost": 105322.42266,
+          "show_amount_per_night_per_room_without_discount": 100307.07,
+          "show_amount_without_discount": 100307.0692
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "BREAKFAST",
+          "description": "desayuno"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "hotel-platinum-plaza-750363",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "87953",
+      "description": "",
+      "name": "Hotel Nutibara",
+      "geo_position": {
+        "latitude": 6.25218,
+        "longitude": -75.56686
+      },
+      "images": [
+        {
+          "id": "1663660",
+          "url": "//images.almundo.com/201/3000000/2700000/2693500/2693404/2693404_132_b.jpg"
+        }
+      ],
+      "stars": 3,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "parking",
+          "description": "estacionamiento"
+        },
+        {
+          "code": "internet",
+          "description": "internet"
+        },
+        {
+          "code": "transportation",
+          "description": "traslados"
+        },
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "safety-box",
+          "description": "caja de seguridad"
+        },
+        {
+          "code": "restaurant",
+          "description": "restaurante"
+        },
+        {
+          "code": "wedding-services",
+          "description": "servicios de boda"
+        },
+        {
+          "code": "tours-ticket-assistance",
+          "description": "asistencia turística"
+        },
+        {
+          "code": "laundry-facilities",
+          "description": "lavanderia"
+        },
+        {
+          "code": "grocery-shooping-service",
+          "description": "tienda de comestibles"
+        },
+        {
+          "code": "coffee-shop",
+          "description": "tienda de café"
+        },
+        {
+          "code": "sheets",
+          "description": "sábanas"
+        },
+        {
+          "code": "meeting-rooms",
+          "description": "sala de reuniones"
+        }
+      ],
+      "rate": {
+        "id": "bf1b94e2-63c2-4e2d-a801-40f9fa2c9216",
+        "price": {
+          "per_night": 131594.69,
+          "total": 131594.684,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 131594.684,
+          "price_per_night_per_room": 131594.69,
+          "total_with_operation_cost": 138174.4182,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 131594.684,
+          "show_amount_per_night_per_room": 131594.69,
+          "show_amount_with_operation_cost": 138174.4182,
+          "show_amount_per_night_per_room_without_discount": 131594.69,
+          "show_amount_without_discount": 131594.684
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "BREAKFAST",
+          "description": "desayuno"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "hotel-nutibara-87953",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "754715",
+      "description": "",
+      "name": "Natural House",
+      "geo_position": {
+        "latitude": 6.2399097083658,
+        "longitude": -75.5907493797623
+      },
+      "images": [
+        {
+          "id": "8847495",
+          "url": "//aff.bstatic.com/images/hotel/max500/964/96469901.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "fitness-center",
+          "description": "gimnasio"
+        },
+        {
+          "code": "coffee-shop",
+          "description": "tienda de café"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "free-botled-water",
+          "description": "botella de agua mineral gratis"
+        },
+        {
+          "code": "grocery-shooping-service",
+          "description": "tienda de comestibles"
+        }
+      ],
+      "rate": {
+        "id": "4062f534-cd0b-43c2-a336-f7d9df957686",
+        "price": {
+          "per_night": 45139.69,
+          "total": 45139.6868,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 45139.6868,
+          "price_per_night_per_room": 45139.69,
+          "total_with_operation_cost": 47396.67114,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 45139.6868,
+          "show_amount_per_night_per_room": 45139.69,
+          "show_amount_with_operation_cost": 47396.67114,
+          "show_amount_per_night_per_room_without_discount": 45139.69,
+          "show_amount_without_discount": 45139.6868
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "natural-house-754715",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "269199",
+      "description": "",
+      "name": "Hotel Belen Plaza",
+      "geo_position": {
+        "latitude": 6.23147,
+        "longitude": -75.59513
+      },
+      "images": [
+        {
+          "id": "4746800",
+          "url": "//images.almundo.com/201/5000000/5000000/4992700/4992691/4992691_2_b.jpg"
+        }
+      ],
+      "stars": 3,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "internet",
+          "description": "internet"
+        },
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "safety-box",
+          "description": "caja de seguridad"
+        },
+        {
+          "code": "restaurant",
+          "description": "restaurante"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "meeting-rooms",
+          "description": "sala de reuniones"
+        },
+        {
+          "code": "wedding-services",
+          "description": "servicios de boda"
+        },
+        {
+          "code": "laundry-facilities",
+          "description": "lavanderia"
+        }
+      ],
+      "rate": {
+        "id": "32bbf07c-f5a1-4d69-9f13-a5cb138a2d36",
+        "price": {
+          "per_night": 78264.21,
+          "total": 78264.2068,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 78264.2068,
+          "price_per_night_per_room": 78264.21,
+          "total_with_operation_cost": 82177.41714,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 78264.2068,
+          "show_amount_per_night_per_room": 78264.21,
+          "show_amount_with_operation_cost": 82177.41714,
+          "show_amount_per_night_per_room_without_discount": 78264.21,
+          "show_amount_without_discount": 78264.2068
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "BREAKFAST",
+          "description": "desayuno"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "hotel-belen-plaza-269199",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "752897",
+      "description": "",
+      "name": "Palmera Hostel",
+      "geo_position": {
+        "latitude": 6.2390044,
+        "longitude": -75.6002242
+      },
+      "images": [
+        {
+          "id": "8836518",
+          "url": "//aff.bstatic.com/images/hotel/max500/941/94189364.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "game-room",
+          "description": "sala de juegos"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "bar",
+          "description": "bar"
+        },
+        {
+          "code": "balcony",
+          "description": "balcón"
+        }
+      ],
+      "rate": {
+        "id": "7b882b21-504d-47dc-88fa-b78ad40e429e",
+        "price": {
+          "per_night": 60196.29,
+          "total": 60196.2868,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 60196.2868,
+          "price_per_night_per_room": 60196.29,
+          "total_with_operation_cost": 63206.10114,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 60196.2868,
+          "show_amount_per_night_per_room": 60196.29,
+          "show_amount_with_operation_cost": 63206.10114,
+          "show_amount_per_night_per_room_without_discount": 60196.29,
+          "show_amount_without_discount": 60196.286799999994
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "palmera-hostel-752897",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "753349",
+      "description": "",
+      "name": "Luxurious El Tesoro Loft",
+      "geo_position": {
+        "latitude": 6.2005995,
+        "longitude": -75.5597412
+      },
+      "images": [
+        {
+          "id": "8838984",
+          "url": "//aff.bstatic.com/images/hotel/max500/817/81711526.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "garden",
+          "description": "jardin"
+        }
+      ],
+      "rate": {
+        "id": "2578d34c-2b8e-40dd-b786-3b57d6124d4b",
+        "price": {
+          "per_night": 561791.86,
+          "total": 561791.8592,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 561791.8592,
+          "price_per_night_per_room": 561791.86,
+          "total_with_operation_cost": 589881.45216,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 561791.8592,
+          "show_amount_per_night_per_room": 561791.86,
+          "show_amount_with_operation_cost": 589881.45216,
+          "show_amount_per_night_per_room_without_discount": 561791.86,
+          "show_amount_without_discount": 561791.8592
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "luxurious-el-tesoro-loft-753349",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "754833",
+      "description": "",
+      "name": "Casa Hotel El Jardin",
+      "geo_position": {
+        "latitude": 6.2464378203083,
+        "longitude": -75.5961691443346
+      },
+      "images": [
+        {
+          "id": "8848288",
+          "url": "//aff.bstatic.com/images/hotel/max500/729/72981722.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        }
+      ],
+      "rate": {
+        "id": "2a21b691-e06c-4e24-b1f5-7911eddadd68",
+        "price": {
+          "per_night": 50168.6,
+          "total": 50168.5912,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 50168.5912,
+          "price_per_night_per_room": 50168.6,
+          "total_with_operation_cost": 52677.02076,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 50168.5912,
+          "show_amount_per_night_per_room": 50168.6,
+          "show_amount_with_operation_cost": 52677.02076,
+          "show_amount_per_night_per_room_without_discount": 50168.6,
+          "show_amount_without_discount": 50168.5912
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "casa-hotel-el-jardin-754833",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "750495",
+      "description": "",
+      "name": "Laureles Apartamentos",
+      "geo_position": {
+        "latitude": 6.2497887180768,
+        "longitude": -75.6000445783138
+      },
+      "images": [
+        {
+          "id": "8822003",
+          "url": "//aff.bstatic.com/images/hotel/max500/163/16375806.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [],
+      "rate": {
+        "id": "005da473-2bd8-4c8f-b412-fdaab543496e",
+        "price": {
+          "per_night": 119368.73,
+          "total": 119368.7248,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 119368.7248,
+          "price_per_night_per_room": 119368.73,
+          "total_with_operation_cost": 125337.16104,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 119368.7248,
+          "show_amount_per_night_per_room": 119368.73,
+          "show_amount_with_operation_cost": 125337.16104,
+          "show_amount_per_night_per_room_without_discount": 119368.73,
+          "show_amount_without_discount": 119368.72480000001
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "laureles-apartamentos-750495",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "751062",
+      "description": "",
+      "name": "Hostal Antiguo",
+      "geo_position": {
+        "latitude": 6.25318852291416,
+        "longitude": -75.5714220933442
+      },
+      "images": [
+        {
+          "id": "8825487",
+          "url": "//aff.bstatic.com/images/hotel/max500/572/57254262.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "game-room",
+          "description": "sala de juegos"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "balcony",
+          "description": "balcón"
+        }
+      ],
+      "rate": {
+        "id": "8654d618-02e2-44eb-b070-86dc763f1777",
+        "price": {
+          "per_night": 189592.71,
+          "total": 189592.7072,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 189592.7072,
+          "price_per_night_per_room": 189592.71,
+          "total_with_operation_cost": 199072.34256,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 189592.7072,
+          "show_amount_per_night_per_room": 189592.71,
+          "show_amount_with_operation_cost": 199072.34256,
+          "show_amount_per_night_per_room_without_discount": 189592.71,
+          "show_amount_without_discount": 189592.70719999998
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "hostal-antiguo-751062",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "750373",
+      "description": "",
+      "name": "Hospedaje Rural Misia Emilia",
+      "geo_position": {
+        "latitude": 6.21313265124249,
+        "longitude": -75.5022659897804
+      },
+      "images": [
+        {
+          "id": "8821271",
+          "url": "//aff.bstatic.com/images/hotel/max500/593/59395595.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [],
+      "rate": {
+        "id": "df27f56c-3a6a-4162-8f65-5ae12f216ccd",
+        "price": {
+          "per_night": 110364.88,
+          "total": 110364.878,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 110364.878,
+          "price_per_night_per_room": 110364.88,
+          "total_with_operation_cost": 115883.1219,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 110364.878,
+          "show_amount_per_night_per_room": 110364.88,
+          "show_amount_with_operation_cost": 115883.1219,
+          "show_amount_per_night_per_room_without_discount": 110364.88,
+          "show_amount_without_discount": 110364.87799999998
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "hospedaje-rural-misia-emilia-750373",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "754056",
+      "description": "",
+      "name": "Almarita Guest House",
+      "geo_position": {
+        "latitude": 6.26087183715563,
+        "longitude": -75.5988699399505
+      },
+      "images": [
+        {
+          "id": "8843282",
+          "url": "//aff.bstatic.com/images/hotel/max500/761/76153623.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "check-in",
+          "description": "recepción 24hs"
+        },
+        {
+          "code": "coffee-shop",
+          "description": "tienda de café"
+        },
+        {
+          "code": "business-center",
+          "description": "centro de negocios"
+        },
+        {
+          "code": "balcony",
+          "description": "balcón"
+        }
+      ],
+      "rate": {
+        "id": "fcfd5404-6e09-4071-977b-e323ba669516",
+        "price": {
+          "per_night": 55167.39,
+          "total": 55167.3824,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 55167.3824,
+          "price_per_night_per_room": 55167.39,
+          "total_with_operation_cost": 57925.75152,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 55167.3824,
+          "show_amount_per_night_per_room": 55167.39,
+          "show_amount_with_operation_cost": 57925.75152,
+          "show_amount_per_night_per_room_without_discount": 55167.39,
+          "show_amount_without_discount": 55167.3824
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "almarita-guest-house-754056",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "754171",
+      "description": "",
+      "name": "Apartamento Poblado",
+      "geo_position": {
+        "latitude": 6.28667163298386,
+        "longitude": -75.5469059944153
+      },
+      "images": [
+        {
+          "id": "8844012",
+          "url": "//aff.bstatic.com/images/hotel/max500/922/92244288.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [
+        {
+          "code": "fitness-center",
+          "description": "gimnasio"
+        },
+        {
+          "code": "game-room",
+          "description": "sala de juegos"
+        },
+        {
+          "code": "garden",
+          "description": "jardin"
+        }
+      ],
+      "rate": {
+        "id": "a68bf5b5-8cd8-4dbd-b152-7b08882bde23",
+        "price": {
+          "per_night": 401288.51,
+          "total": 401288.5032,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 401288.5032,
+          "price_per_night_per_room": 401288.51,
+          "total_with_operation_cost": 421352.92836,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 401288.5032,
+          "show_amount_per_night_per_room": 401288.51,
+          "show_amount_with_operation_cost": 421352.92836,
+          "show_amount_per_night_per_room_without_discount": 401288.51,
+          "show_amount_without_discount": 401288.5032
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "apartamento-poblado-754171",
+      "defaultPaymentMethod": "PREPAID"
+    },
+    {
+      "id": "750402",
+      "description": "",
+      "name": "Black Sheep Medellin",
+      "geo_position": {
+        "latitude": 6.20759439671426,
+        "longitude": -75.5755318701267
+      },
+      "images": [
+        {
+          "id": "8821596",
+          "url": "//aff.bstatic.com/images/hotel/max500/129/12983904.jpg"
+        }
+      ],
+      "stars": 0,
+      "recommended": false,
+      "checkin_time": "",
+      "checkout_time": "",
+      "hotel_chain": "",
+      "rating_summary": {},
+      "amenities": [],
+      "rate": {
+        "id": "a8a81038-0178-4331-97a4-4c8850a37544",
+        "price": {
+          "per_night": 90279.38,
+          "total": 90279.3736,
+          "discount": {
+            "amount": 0,
+            "percentage": 0
+          },
+          "currency": {
+            "id": 1966080,
+            "code": "COP",
+            "mask": "$",
+            "ratio": 3011.32
+          },
+          "price_without_discount": 90279.3736,
+          "price_per_night_per_room": 90279.38,
+          "total_with_operation_cost": 94793.34228,
+          "charges": [
+            {
+              "amount": 0,
+              "type": "VAT",
+              "description": "VAT",
+              "included": true
+            }
+          ],
+          "show_amount": 90279.3736,
+          "show_amount_per_night_per_room": 90279.38,
+          "show_amount_with_operation_cost": 94793.34228,
+          "show_amount_per_night_per_room_without_discount": 90279.38,
+          "show_amount_without_discount": 90279.3736
+        },
+        "smoking_preference": {
+          "code": "NS"
+        },
+        "meal_plan": {
+          "code": "ROOM_ONLY",
+          "description": "solo la habitación"
+        },
+        "payment_method": {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        },
+        "refundable": false,
+        "promotion": "",
+        "status": "UNCHECKED",
+        "cancel_policies": [],
+        "free_cancel_date": {
+          "date": 0,
+          "monthNumber": 0,
+          "year": 0,
+          "plain": ""
+        }
+      },
+      "payment_methods": [
+        {
+          "code": "PAY_AT_DESTINATION",
+          "description": "Paga en destino"
+        }
+      ],
+      "slug": "black-sheep-medellin-750402",
+      "defaultPaymentMethod": "PREPAID"
+    }
+  ],
+}
