@@ -1,20 +1,32 @@
 # Almundo test
 
+Clonar repo
 
 ``` bash
 git clone https://github.com/anibalajt/alMunoTest.git
-
-# install dependencies
+```
+instalar dependencies
+``` bash
 npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Asignar ip local
+``` bash
+# ./app/config.js
+
+module.exports = {
+  port: process.env.PORT || 3002,
+  apiHeroku:'https://almundotest.herokuapp.com/', //conectarse a ip en heroku
+  apiLocal: 'http://IP LOCAL:3002/',//conectarse a ip local
+};
+
+# app/request/index.js
+
+line 5:   const url = Config.apiHeroku;
+line 6:   const url = Config.apiLocal;
+
+comentar una de las dos lineas para conectarnos a la ip local o ip en heroku
+```
+
+server local
+https://github.com/anibalajt/alMundoServer
