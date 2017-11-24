@@ -22,12 +22,9 @@ class Hotels extends Component {
       hotels:false
     };
   }
-  componentWillMount(){
-
-  }
 
   _getHotels(){
-
+    //cargamos los hoteles
     let self = this;
     const {data} = this.props
     data.offset = this.state.offset

@@ -24,10 +24,8 @@ class Home extends Component {
     };
   }
 
-  componentWillMount(){
-
-  }
   getLocation(location){
+    //buscamos la localizacion del usuario por cada letra que ingresa
     var self = this;
     const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
 
@@ -60,7 +58,9 @@ class Home extends Component {
       idLocation:item.codigo
     })
   }
+
   _list(item){
+    //lista de coincidencias con el lugar que busca el user
     return(
       <TouchableWithoutFeedback
         onPress={ this._selectedLocation.bind(this,item) } >
@@ -71,10 +71,11 @@ class Home extends Component {
     )
   }
   _showCalendar(when){
-
+    //mostrar el calendario
     this.setState({showCalendar:true,dateIn:when})
   }
   _setDate(day){
+    //obtenemos el dia a ingresar y salir del hotel
     switch (this.state.dateIn) {
       case 'llego':
       this.setState({llego:day.dateString,showCalendar:false})
@@ -85,6 +86,7 @@ class Home extends Component {
     }
   }
   _searchHotels(){
+    //llamamos una nueva vista y cargamos los hoteles
     const {idLocation, llego, meVoy} = this.state;
     var data = {
       date: `${llego},${meVoy}`,
