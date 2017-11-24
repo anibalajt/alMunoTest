@@ -27,6 +27,10 @@ line 6:   const url = Config.apiLocal;
 
 comentar una de las dos lineas para conectarnos a la ip local o ip en heroku
 ```
-
+Run
+``` bash
+react-native run-ios
+react-native run-android
+```
 server local
 https://github.com/anibalajt/alMundoServer
