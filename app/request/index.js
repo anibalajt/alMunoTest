@@ -1,10 +1,10 @@
 'use strict'
 
 const axios              = require('axios');
+const Config              = require('../config');
 
 function apiLocation(location,cb) {
-  // axios.get(`http:192.168.1.53:3002/api/getLocation?location=${location}`)
-  axios.get(`http:192.168.5.18:3002/api/getLocation?location=${location}`)
+  axios.get(`${Config.apiHeroku}api/getLocation?location=${location}`)
   .then(function (response) {
     cb(response.data);
   })
@@ -13,7 +13,7 @@ function apiLocation(location,cb) {
   });
 }
 function apiHotels(data,cb){
-  axios.get(`http:192.168.5.18:3002/api/getHotels?date=${data.date}&rooms=2&type=CITY&city=${data.city}&offset=${data.offset}&limit=20`)
+  axios.get(`${Config.apiHeroku}api/getHotels?date=${data.date}&rooms=2&type=CITY&city=${data.city}&offset=${data.offset}&limit=20`)
   .then(function (response) {
     cb(response.data);
   })
@@ -22,7 +22,7 @@ function apiHotels(data,cb){
   });
 }
 function apiHotel(data,cb){
-  axios.get(`http:192.168.5.18:3002/api/getHotel?date=${data.date}&rooms=2&type=CITY&city=${data.city}`)
+  axios.get(`${Config.apiHeroku}api/getHotel?date=${data.date}&rooms=2&type=CITY&city=${data.city}`)
   .then(function (response) {
     cb(response.data);
   })
